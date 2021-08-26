@@ -5,7 +5,6 @@ yarn global add cross-env (windows somente)
 
 yarn start:dev
 
-
 subindo para o heroku:
 cria o app no site do heroku
 yarn global add heroku
